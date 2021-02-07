@@ -1,4 +1,4 @@
-# 测试你的测试：Stryker Mutator + Jest 实现 JS / TS 变异测
+# 测试你的测试：Stryker Mutator + Jest 实现 JS / TS 变异测试
 
 
 > 本文章所有示例项目代码均可在[我的 GitHub 仓库](https://github.com/wwwzbwcom/stryker-mutator-example)查看
